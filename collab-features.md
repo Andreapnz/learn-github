@@ -13,3 +13,6 @@ Este documento faz parte da Atividade 03 do curso **GitHub4Women** e apresenta o
 - 📖 **Criar e gerenciar wikis**: documentar o projeto de maneira colaborativa e acessível.
 
 💡 Esses temas são fundamentais para quem deseja colaborar em projetos open source ou em equipes distribuídas. Vamos juntas explorar o poder da colaboração no GitHub! 💪🚀
+
+🌟 *Lembre-se: colaborar é mais do que contribuir com código — é sobre compartilhar conhecimento, ouvir ideias e crescer em comunidade.*  
+Seja protagonista da sua jornada e inspire outras mulheres a fazerem parte do universo tech! 👩‍💻💜✨
